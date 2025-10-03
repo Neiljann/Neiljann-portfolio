@@ -1,1 +1,9 @@
+At first, I found it really difficult to publish my work on GitHub, especially for the midterm project. Every time I tried to create a repository and deploy it using GitHub Pages, I ran into errors. Although the GitHub Pages link would open, the actual project wouldn’t display properly—only the HTML would load, while the CSS and JavaScript files wouldn't work at all. This made my project look incomplete, even though I had written the code.
 
+After some research and trial and error, I realized that one of the main issues was how I organized my files and linked them in the HTML. If the file paths for CSS or JavaScript are not set correctly (especially in GitHub's case-sensitive file system), the browser won’t be able to find them. I also learned that you need to commit and push all your files properly and ensure that the folder structure on GitHub matches what the HTML is expecting.
+
+This experience taught me not only about the technical side of web deployment but also the importance of patience and attention to detail. I used to think that once the code worked on my local machine, it would work anywhere—but that’s not always true. Deployment introduces new problems that I had never thought about before.
+
+Through this, I gained a better understanding of how GitHub and GitHub Pages work. I learned how to properly set up a repository, how to upload and commit changes, and how to use relative file paths correctly. I also learned to troubleshoot errors by checking the console and using browser developer tools to inspect what's going wrong.
+
+Even though it was frustrating at first, I now feel more confident in publishing my work online. These small problems helped me grow as a developer, and I know that I’ll face similar challenges in future projects. The key takeaway for me is that debugging and problem-solving are part of the process—and every error is an opportunity to learn.
